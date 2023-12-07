@@ -14,3 +14,4 @@ Danh sách bao gồm bên dưới:
 - https://dealngon.vn/ma-giam-gia-sendo
 - https://dealngon.vn/ma-giam-gia-grab
 - https://dealngon.vn/ma-giam-gia-now
+- https://dealngon.vn/ma-giam-gia-highlands-coffee
